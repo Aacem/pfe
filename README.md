@@ -2,7 +2,7 @@ Exigences :
 
 -git clone le dossier
 
--cd carDeal
+-cd pfe
 
 -composer install
 
